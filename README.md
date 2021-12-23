@@ -13,7 +13,7 @@
 <strong>My Main skill</strong>
 
 <div>
-  <img src="https://img.shields.io/badge/Android-yellow?style=?style=flat&logo=android&logoColor=#3DDC84"/>
+  <img src="https://img.shields.io/badge/Android-white?style=?style=flat&logo=android&logoColor=#3DDC84"/>
   <img src="https://img.shields.io/badge/Kotlin-white?style=?style=flat&logo=kotlin&logoColor=#7F52FF"/>
   <img src="https://img.shields.io/badge/Java-orange?style=?style=flat&logo=java&logoColor=#007396"/>
 </div>
