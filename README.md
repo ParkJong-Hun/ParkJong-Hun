@@ -9,7 +9,6 @@
 <strong>Project currently in developing</strong>
 <div align="left">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkJong-Hun&repo=Pocket_kakei)](https://github.com/ParkJong-Hun/Pocket_kakei)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkJong-Hun&repo=WariKan)](https://github.com/ParkJong-Hun/WariKan)
 </div>
 
