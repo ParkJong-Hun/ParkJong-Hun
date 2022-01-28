@@ -6,7 +6,11 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJong-Hun&hide=c%23,asp%2Enet,hlsl,shaderlab&hide_title="true"&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<strong>Project currently in developing</strong>
+<strong>Currently in development</strong>
+<div align="left">
+  
+</div>
+<strong>Currently in development (temporarily suspended)</strong>
 <div align="left">
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkJong-Hun&repo=WariKan)](https://github.com/ParkJong-Hun/WariKan)
