@@ -8,7 +8,7 @@
 </div>
 <strong>Currently in development</strong>
 <div align="left">
-  
+  <br>
 </div>
 <strong>Currently in development (temporarily suspended)</strong>
 <div align="left">
