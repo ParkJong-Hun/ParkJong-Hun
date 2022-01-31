@@ -1,5 +1,5 @@
 <div>
-  <img width=300px src=https://user-images.githubusercontent.com/81838716/147409345-91ff7670-a014-4805-aad9-57126d2db6f9.png />
+  <img width=128px src=https://user-images.githubusercontent.com/81838716/147409345-91ff7670-a014-4805-aad9-57126d2db6f9.png />
 </div>
 <strong>My main skill</strong>
 
