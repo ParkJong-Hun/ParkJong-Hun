@@ -58,8 +58,7 @@
 <div align=center>
   <details markdown="1">
     <summary>My childhood activities with the computer</summary>
-    <div>
-
+    
 |history|description|
 |---|---|
 |1999.01.06|Born|
@@ -74,7 +73,6 @@
 |2014|Learning more programming languages with friends to make Unity games|
 |2017|majored in computer engineering(or science)|
 |2021|Awarded for creating android, ios apps and game apps|
-  
-    </div>
+    
   </details>
 </div>
