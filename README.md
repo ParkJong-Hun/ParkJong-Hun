@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"/>
     <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=oracle&logoColor=orange"/>
   </div>
+  <br>
   <details markdown="1">
     <summary>More my skill</summary>
     <div>
