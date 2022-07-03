@@ -11,7 +11,8 @@
   <details markdown="1">
     <summary>More my skill</summary>
     <div>
-      <strong>I've made some projects.</strong><br>
+      <hr>
+      <strong>I've made some projects.</strong><br><br>
       <img src="https://img.shields.io/badge/iOS-white?style=flat-square&logo=ios&logoColor=black"/>
       <img src="https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=#F05138"/>
       <img src="https://img.shields.io/badge/Unity-white?style=flat-square&logo=unity&logoColor=black"/>
@@ -29,8 +30,9 @@
       <img src="https://img.shields.io/badge/SQLite-white?style=flat-square&logo=sqlite&logoColor=navy"/>
       <img src="https://img.shields.io/badge/Realm-white?style=flat-square&logo=realm&logoColor=navy"/>
     </div>
+    <hr>
     <div>
-      <strong>I did a little studying.</strong><br>
+      <strong>I did a little studying.</strong><br><br>
       <img src="https://img.shields.io/badge/Flutter-white?style=flat-square&logo=flutter&logoColor=skyblue"/>
       <img src="https://img.shields.io/badge/Dart-white?style=flat-square&logo=dart&logoColor=skyblue"/>
       <img src="https://img.shields.io/badge/Svelte-white?style=flat-square&logo=svelte&logoColor=#FF3E00"/>
@@ -50,5 +52,6 @@
       <img src="https://img.shields.io/badge/Photopea-white?style=flat-square&logo=photopea&logoColor=#18A497"/>
       <img src="https://img.shields.io/badge/Animate-white?style=flat-square&logo=adobe&logoColor=red"/>
     </div>
+    <hr>
   </div>
 </deatils>
