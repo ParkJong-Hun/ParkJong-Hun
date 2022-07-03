@@ -30,6 +30,11 @@
       <img src="https://img.shields.io/badge/SQLite-white?style=flat-square&logo=sqlite&logoColor=navy"/>
       <img src="https://img.shields.io/badge/Realm-white?style=flat-square&logo=realm&logoColor=navy"/>
     </div>
+    <div>
+      <img src="https://img.shields.io/badge/Photoshop-white?style=flat-square&logo=adobephotoshop&logoColor=#31A8FF"/>
+      <img src="https://img.shields.io/badge/Photopea-white?style=flat-square&logo=photopea&logoColor=#18A497"/>
+      <img src="https://img.shields.io/badge/Animate-white?style=flat-square&logo=adobe&logoColor=red"/>
+    </div>
     <hr>
     <div>
       <strong>I did a little studying.</strong><br><br>
@@ -46,11 +51,6 @@
     <div>
       <img src="https://img.shields.io/badge/Hibernate-white?style=flat-square&logo=hibernate&logoColor=gray"/>
       <img src="https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=#003B57"/>
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/Photoshop-white?style=flat-square&logo=adobephotoshop&logoColor=#31A8FF"/>
-      <img src="https://img.shields.io/badge/Photopea-white?style=flat-square&logo=photopea&logoColor=#18A497"/>
-      <img src="https://img.shields.io/badge/Animate-white?style=flat-square&logo=adobe&logoColor=red"/>
     </div>
     <hr>
   </div>
