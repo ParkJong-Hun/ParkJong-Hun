@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/C＃-white?style=flat-square&logo=csharp&logoColor=black"/>
       <img src="https://img.shields.io/badge/SpringBoot-white?style=flat-square&logo=springboot&logoColor=#6DB33F"/>
       <img src="https://img.shields.io/badge/React.js-white?style=flat-square&logo=react&logoColor=#61DAFB"/>
-      <img src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=#E34F26"/>
+      <img src="https://img.shields.io/badge/HTML(+jsp,mustache,thymeleaf)-white?style=flat-square&logo=html5&logoColor=#E34F26"/>
       <img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=blue"/>
       <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=#F7DF1E"/>
       <img src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=node.js&logoColor=#339933"/>
@@ -47,6 +47,7 @@
       <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=#3776AB"/>
       <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=cplusplus&logoColor=navy"/>
       <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=c&logoColor=#A8B9CC"/>
+      <img src="https://img.shields.io/badge/Servlet-white?style=flat-square&logo=oracle&logoColor=orange"/>
     </div>
     <div>
       <img src="https://img.shields.io/badge/Hibernate-white?style=flat-square&logo=hibernate&logoColor=gray"/>
