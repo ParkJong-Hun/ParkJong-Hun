@@ -71,7 +71,7 @@
 |2010|Created several shooting games, animations with Adobe Flash|
 |2012|Created a mod for Minecraft in Java and run a large RPG and Farm server(maybe my server is first farm server in the Minecraft)|
 |2014|Learning more programming languages with friends to make Unity games|
-|2017|majored in computer engineering(or science)|
+|2017|Majored in computer engineering(or science)|
 |2021|Awarded for creating android, ios apps and game apps|
     
   </details>
