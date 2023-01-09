@@ -13,7 +13,7 @@
     <div>
       <hr>
       <strong>I've made some projects.</strong><br><br>
-      <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=oracle&logoColor=orange"/>
+      <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=oracle&logoColor=orange"/>
       <img src="https://img.shields.io/badge/iOS-white?style=flat-square&logo=ios&logoColor=black"/>
       <img src="https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=#F05138"/>
       <img src="https://img.shields.io/badge/Unity-white?style=flat-square&logo=unity&logoColor=black"/>
