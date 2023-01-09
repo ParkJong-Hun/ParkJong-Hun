@@ -6,7 +6,6 @@
   <div>
     <img src="https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=#3DDC84"/>
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"/>
-    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=oracle&logoColor=orange"/>
   </div>
   <br>
   <details markdown="1">
@@ -14,6 +13,7 @@
     <div>
       <hr>
       <strong>I've made some projects.</strong><br><br>
+      <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=oracle&logoColor=orange"/>
       <img src="https://img.shields.io/badge/iOS-white?style=flat-square&logo=ios&logoColor=black"/>
       <img src="https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=#F05138"/>
       <img src="https://img.shields.io/badge/Unity-white?style=flat-square&logo=unity&logoColor=black"/>
