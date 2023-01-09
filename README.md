@@ -48,6 +48,7 @@
       <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=#3776AB"/>
       <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=cplusplus&logoColor=navy"/>
       <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=c&logoColor=#A8B9CC"/>
+      <img src="https://img.shields.io/badge/Typescript-white?style=flat-square&logo=typescript&logoColor=#A8B9CC"/>
       <img src="https://img.shields.io/badge/Servlet-white?style=flat-square&logo=oracle&logoColor=orange"/>
       <img src="https://img.shields.io/badge/PHP-white?style=flat-square&logo=php&logoColor=#777BB4"/>
     </div>
