@@ -12,6 +12,7 @@
   <details markdown="1">
     <summary>More my skills</summary>
     <div>
+      <hr>
       <strong>I am currently focusing on this.</strong><br><br>
       <img src="https://img.shields.io/badge/Flutter-white?style=flat-square&logo=flutter&logoColor=skyblue"/>
       <img src="https://img.shields.io/badge/Dart-white?style=flat-square&logo=dart&logoColor=skyblue"/>
