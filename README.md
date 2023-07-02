@@ -4,12 +4,19 @@
     <img width=128px src=https://user-images.githubusercontent.com/81838716/147409345-91ff7670-a014-4805-aad9-57126d2db6f9.png />
   </div>
   <div>
+    <strong>Main Skills</strong>
     <img src="https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=#3DDC84"/>
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"/>
   </div>
   <br>
   <details markdown="1">
-    <summary>More my skill</summary>
+    <summary>More my skills</summary>
+    <div>
+      <strong>I am currently focusing on this.</strong><br><br>
+      <img src="https://img.shields.io/badge/Flutter-white?style=flat-square&logo=flutter&logoColor=skyblue"/>
+      <img src="https://img.shields.io/badge/Dart-white?style=flat-square&logo=dart&logoColor=skyblue"/>
+      <img src="https://img.shields.io/badge/Go-white?style=flat-square&logo=go&logoColor=#00ADD8"/>
+    </div>
     <div>
       <hr>
       <strong>I've made some projects.</strong><br><br>
@@ -38,13 +45,10 @@
     </div>
     <hr>
     <div>
-      <strong>I did a little studying.</strong><br><br>
-      <img src="https://img.shields.io/badge/Flutter-white?style=flat-square&logo=flutter&logoColor=skyblue"/>
-      <img src="https://img.shields.io/badge/Dart-white?style=flat-square&logo=dart&logoColor=skyblue"/>
+      <strong>I have been studying a little before.</strong><br><br>
       <img src="https://img.shields.io/badge/Svelte-white?style=flat-square&logo=svelte&logoColor=#FF3E00"/>
       <img src="https://img.shields.io/badge/RubyOnRails-white?style=flat-square&logo=rubyonrails&logoColor=red"/>
       <img src="https://img.shields.io/badge/Ruby-white?style=flat-square&logo=ruby&logoColor=red"/>
-      <img src="https://img.shields.io/badge/Go-white?style=flat-square&logo=go&logoColor=#00ADD8"/>
       <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=#3776AB"/>
       <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=cplusplus&logoColor=navy"/>
       <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=c&logoColor=#A8B9CC"/>
