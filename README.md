@@ -4,7 +4,7 @@
     <img width=128px src=https://user-images.githubusercontent.com/81838716/147409345-91ff7670-a014-4805-aad9-57126d2db6f9.png />
   </div>
   <div>
-    <strong>Main Skills</strong>
+    <strong>Main Skills</strong><br><br>
     <img src="https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=#3DDC84"/>
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"/>
   </div>
