@@ -4,7 +4,6 @@
     <img width=128px src=https://user-images.githubusercontent.com/81838716/147409345-91ff7670-a014-4805-aad9-57126d2db6f9.png />
   </div>
   <div>
-    <strong>Main Skills</strong><br><br>
     <img src="https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=#3DDC84"/>
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"/>
   </div>
@@ -13,7 +12,7 @@
     <summary>More my skills</summary>
     <div>
       <hr>
-      <strong>I am currently focusing on this.</strong><br><br>
+      <strong>I'm currently focusing on these skills.</strong><br><br>
       <img src="https://img.shields.io/badge/Flutter-white?style=flat-square&logo=flutter&logoColor=skyblue"/>
       <img src="https://img.shields.io/badge/Dart-white?style=flat-square&logo=dart&logoColor=skyblue"/>
       <img src="https://img.shields.io/badge/Go-white?style=flat-square&logo=go&logoColor=#00ADD8"/>
