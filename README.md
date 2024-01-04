@@ -5,6 +5,7 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=#3DDC84"/>
+    <img src="https://img.shields.io/badge/Kotlin Multiplatform-white?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"/>
     <img src="https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=#7F52FF"/>
   </div>
 </div>
