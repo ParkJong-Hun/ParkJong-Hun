@@ -15,7 +15,7 @@
 |2009|Made several Use maps for Starcraft|
 |2009|High-quality custom Yu-Gi-Oh cards made with Photoshop|
 |2010|Ran an online game called Maple Story as a private server using mysql and wz engine|
-|2010|Created several shooting games, animations with Adobe Flash|
+|2010|Created several shooting games, anime series with Adobe Flash|
 |2012|Created a mod for Minecraft in Java and run a large RPG and Farm server(maybe my server is first farm server in the Minecraft)|
 |2014|Learning more programming languages with friends to make Unity games|
 |2017|Majored in computer engineering(or science)|
