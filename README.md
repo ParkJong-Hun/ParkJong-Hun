@@ -23,5 +23,5 @@
     
   </details>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjong-hun&exclude_repo=Simple-FPS-Game&langs_count=30&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjong-hun&exclude_repo=Simple-FPS-Game&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
