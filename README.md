@@ -22,6 +22,4 @@
 |2021|Awarded for creating android, ios apps and game apps|
     
   </details>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjong-hun&exclude_repo=Simple-FPS-Game&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
