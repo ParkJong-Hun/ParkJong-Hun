@@ -12,10 +12,10 @@
 |---|---|
 |1999.01.06|Born|
 |2005|Started using the computer|
-|2007|Create a game with a tool called RPGXP and someone else's ruby open source code|
+|2007|Created a game with a tool called RPGXP and someone else's ruby open source code|
 |2008|Made several cartoons with Photoshop|
 |2009|Made several Use maps for Starcraft|
-|2009|High-quality custom Yu-Gi-Oh cards made with Photoshop|
+|2009|Made High-quality custom Yu-Gi-Oh cards with Photoshop|
 |2010|Ran an online game called Maple Story as a private server using mysql and wz engine|
 |2010|Created several shooting games, anime series with Adobe Flash|
 |2012|Created a mod for Minecraft in Java and run a large RPG and Farm server(maybe my server is first farm server in the Minecraft)|
