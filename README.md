@@ -5,5 +5,3 @@
 
 </div>
 <div align=center>
-  <details markdown="1">
-    <summary>My childhood activities with the computer</summary>
